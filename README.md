@@ -1,2 +1,3 @@
 # 321_Contacts
-first benchmark project 
+- Can use Array#sort in JavaScript
+- Can iterate through an Array in JavaScript
